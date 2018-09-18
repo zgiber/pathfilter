@@ -1,5 +1,7 @@
 # Path filter
 
+[![GoDoc](https://godoc.org/github.com/zgiber/pathfilter?status.svg)](https://godoc.org/github.com/zgiber/pathfilter)
+
 ## Description
 
 Given a series of points in a .csv file (latitude, longitude, timestamp) describing a journey from A-B, returns a filtered dataset from which the potentionally erroneous points are removed. Use it for cleaning up tracked paths from various applications (sports tracker, courier application, fleet tracker etc.).
